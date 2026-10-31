@@ -1,0 +1,5 @@
+id          = "llamatarianism/wallpaper_roulette"
+name        = "Wallpaper Roulette"
+version     = "1.0.0"
+plugin_api  = 3
+description = "A one in six chance of looking like a total degenerate."
